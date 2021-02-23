@@ -1,5 +1,5 @@
-require './old_roman_numerals'
-require './roman_numerals'
+require './lib/old_roman_numerals'
+require './lib/roman_numerals'
 
 puts 'Enter a number'
 number = gets.chomp

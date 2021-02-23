@@ -1,4 +1,4 @@
-require '../old_roman_numerals.rb'
+require 'old_roman_numerals'
 
 RSpec.describe OldRomanNumeral do
   describe '#convert' do
